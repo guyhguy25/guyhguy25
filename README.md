@@ -43,6 +43,12 @@
 <br />
 <br />
 
+<details>
+  <summary>⚡ GitHub Stats</summary>
+
+  <img align="left" alt="guyhguy25's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guyhguy25&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://guyhguyportfolio.web.app/
 [facebook]: https://www.facebook.com/guyhguy
